@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f34b9c4-9fe5-476d-8d6f-9c001c404472" alt="adiga ai logo" width="400">
+  <img src="https://github.com/user-attachments/assets/311d27d5-f5c6-4c0b-998d-f088d59bfb3e" alt="adiga ai logo" width="400">
 </p>
 
 

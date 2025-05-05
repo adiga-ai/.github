@@ -8,4 +8,4 @@
 
 <p align="center" width="400">
   Our goal is to help preserve and promote the Circassian language, history, and culture through the power of AI and machine learning
-</p>
+</p> 
